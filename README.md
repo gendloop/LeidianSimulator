@@ -1,9 +1,9 @@
-# RepoName
+# LeidianSimulator
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/LeidianSimulator
 ```
 
 ## Notes
