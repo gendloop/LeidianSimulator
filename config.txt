@@ -1,5 +1,5 @@
 
 PROJECT_NAME=LeidianSimulator
 LeidianSimulator_VERSION_MAJOR=9
-LeidianSimulator_VERSION_MINOR=0
-LeidianSimulator_VERSION_PATCH=60
+LeidianSimulator_VERSION_MINOR=2
+LeidianSimulator_VERSION_PATCH=0
